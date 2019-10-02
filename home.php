@@ -8,6 +8,8 @@ if(!isset($_SESSION["admin_name"]))
 {
   header("location:login.php");
 }
+
+
 $uname=$_SESSION["admin_name"];
 include("connect.php");
 $sql="use first_year_db";
