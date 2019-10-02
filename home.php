@@ -126,6 +126,7 @@ background-color: #FFFFFF;
   font-size: 40px;
   font-weight: 700;
 }
+  san andreas 
 .desc{
 border: 1px solid black;
 font-size: 20px;
